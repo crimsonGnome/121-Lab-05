@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" time="0.009" timestamp="2021-09-24T17:04:02" name="AllTests">
+  <testsuite name="Rectangle" tests="6" failures="0" disabled="0" errors="0" time="0" timestamp="2021-09-24T17:04:02">
+    <testcase name="PublicMethodsPresent" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+    <testcase name="MutatorsAndAccessors" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+    <testcase name="Area1" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+    <testcase name="Area2" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+    <testcase name="FirstArgumentBigger" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+    <testcase name="SecondArgumentBigger" status="run" result="completed" time="0" timestamp="2021-09-24T17:04:02" classname="Rectangle" />
+  </testsuite>
+  <testsuite name="UserInput" tests="1" failures="0" disabled="0" errors="0" time="0.003" timestamp="2021-09-24T17:04:02">
+    <testcase name="AskRectangleInput" status="run" result="completed" time="0.003" timestamp="2021-09-24T17:04:02" classname="UserInput" />
+  </testsuite>
+  <testsuite name="Driver" tests="3" failures="0" disabled="0" errors="0" time="0.006" timestamp="2021-09-24T17:04:02">
+    <testcase name="ShowAreaFirstRectangle" status="run" result="completed" time="0.001" timestamp="2021-09-24T17:04:02" classname="Driver" />
+    <testcase name="ShowAreaSecondRectangle" status="run" result="completed" time="0.002" timestamp="2021-09-24T17:04:02" classname="Driver" />
+    <testcase name="ShowLongestRectangle" status="run" result="completed" time="0.003" timestamp="2021-09-24T17:04:02" classname="Driver" />
+  </testsuite>
+</testsuites>
